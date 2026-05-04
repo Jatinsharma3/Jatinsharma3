@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Jatin Sharma
 
-<!--
-**Jatinsharma3/Jatinsharma3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Aspiring Software Developer (SDE)
+🎓 B.Tech Final Year Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+* Build real-world **AI & Web Applications**
+* Work on **Full Stack Development (MERN)**
+* Interested in **Software Development & Problem Solving**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js, Express
+* **Languages:** Python, C++
+* **Tools:** Git, GitHub, APIs
+
+---
+
+## 📌 Featured Projects
+
+* 🤖 AI-Powered Mock Interviewer
+* 🖼️ Background Removal Tool
+* ⌨️ Typing Speed App
+* 📊 Crypto Analysis Tool
+
+---
+
+## 🎯 Current Focus
+
+* Improving DSA & Problem Solving
+* Building scalable full stack apps
+* Preparing for Software Developer roles
+
+---
+
+## 📫 Connect
+
+* GitHub: https://github.com/Jatinsharma3
+
+---
+
+⭐ Always learning and building.
