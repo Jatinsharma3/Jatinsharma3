@@ -12,7 +12,6 @@
 * Interested in **Software Development & Problem Solving**
 
 ---
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
