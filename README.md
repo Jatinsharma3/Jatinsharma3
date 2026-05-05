@@ -26,7 +26,6 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
 ---
 
@@ -48,8 +47,8 @@
 ---
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jatin-sharma-182074293
 * 📧 Email: jatinsharma227021@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/jatin-sharma-182074293
 
 ---
 
